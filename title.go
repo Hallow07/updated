@@ -2,7 +2,6 @@ package title
 
 import (
     "fmt"
-    "github.com/Hallow07/updated" // Replace "your-username" with your actual GitHub username or the path to where you store the title package
 )
 
 func main() {
